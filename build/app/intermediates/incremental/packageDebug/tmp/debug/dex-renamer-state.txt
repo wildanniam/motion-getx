@@ -1,0 +1,4 @@
+#Fri Jan 06 22:16:49 WIB 2023
+base.0=/home/wildanniam/Android/flutter/motion/tugas_m4/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
